@@ -26,7 +26,7 @@ function appendKitten(name){
   newKittens = kittens.unshift(name)
   return newKittens
 }
-appendKitten("")
+appendKitten("Broom")
 
 
 
