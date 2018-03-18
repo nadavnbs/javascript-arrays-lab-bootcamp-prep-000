@@ -30,7 +30,7 @@ function prependKitten(name){
   newKittens = [name,...kittens]
   return newKittens
 }
-function removeLestKitten(){
+function removeLastKitten(){
   newKittens = kittens.pop(name)
   return newKittens
 }
