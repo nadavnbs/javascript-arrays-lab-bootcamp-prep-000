@@ -26,7 +26,6 @@ function appendKitten(name){
   newKittens = kittens.push(name)
   return newKittens
 }
-appendKitten("Broom")
 
 
 
