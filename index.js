@@ -11,7 +11,7 @@ function destructivelyPrependKitten(name){
   kittens.unshift(name)
   return kittens
 }
-destructivelyPrependKitten("")
+destructivelyPrependKitten("Bob")
 
 
 
